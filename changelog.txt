@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 25. 10. 2026
+  Major Features:
+    - Initial release.
+    - Disable rain effect on Gleba.

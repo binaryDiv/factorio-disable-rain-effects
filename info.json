@@ -1,0 +1,14 @@
+{
+    "name": "disable-rain-effects",
+    "version": "1.0.0",
+    "title": "Disable Rain Effects",
+    "author": "binaryDiv",
+    "contact": "factorio@binarydiv.dev",
+    "homepage": "https://github.com/binaryDiv/factorio-disable-rain-effects",
+    "description": "Disables the rain effect on Gleba. Helpful for people who get migraines, motion sickness or sensory overload.",
+    "factorio_version": "2.1",
+    "dependencies": [
+        "base",
+        "space-age"
+    ]
+}
